@@ -13,8 +13,4 @@ php artisan serve
 ```    
 
 
-## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-CRUD-with-Auth/main/Screenshots/Output-01.png)
-
-
 ## 🔗 www.codehafeez.com
